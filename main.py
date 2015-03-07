@@ -8,4 +8,3 @@ class myklass()
 
 newobject=myklass()
 newobject.dodaj(2,5)
-
